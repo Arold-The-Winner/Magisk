@@ -3,7 +3,7 @@
 ### v28.1
 
 - [App] Fix stub APK download link
-- [App] Fix support for Android lower than 8.0
+- [App] Fix support for Android lower than 12
 - [General] Fix support for MTK Samsung devices
 - [MagiskInit] Fix a regression for 2SI devices
 - [MagiskPolicy] Fix a regression causing `overlay.d` replaced files to be not accessible
